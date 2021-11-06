@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://caliph.my.id/xml/sitemap.xml
